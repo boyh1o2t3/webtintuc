@@ -1,0 +1,167 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutClient.cshtml";
+    var newsbyid = (List<Model.EntityFramework.BAIDANG>)ViewBag._k_news;
+
+    var top10cungtheloai = (List<Model.EntityFramework.BAIDANG>)ViewBag._k_relative;
+    var top10cungnguoidang = (List<Model.EntityFramework.BAIDANG>)ViewBag._k_poster;
+
+    var vbtentheloai = (List<Model.EntityFramework.THELOAI>)ViewBag.vbtentheloai;
+
+    var getinfoposter = (List<Model.EntityFramework.TAIKHOAN>)ViewBag.getinfoposter;
+}
+
+@section pagetitle{
+    @foreach (var item in newsbyid)
+    {
+        <title>EAUT - @item.TenBaiDang</title>
+    }
+}
+
+
+
+
+<div class="content_bottom">
+    <div class="col-lg-8 col-md-8">
+        <!-- start content bottom left -->
+        <div class="content_bottom_left">
+            @foreach (var item in vbtentheloai)
+            {
+                <div class="cl-content-left">
+                    <div class="_tit_search" style="color: #444">
+                        <span>
+                            @item.TenTheLoai
+                        </span>
+                    </div>
+                </div>
+            }
+
+            <div class="single_page_area">
+
+                @foreach (var item in newsbyid)
+                {
+                    <h3 class="post_titile post_titile12"> @item.TenBaiDang </h3>
+                    <div class="single_page_content">
+
+
+                        <div class="post_commentbox">
+                            <span>
+                                <i class="fa fa-calendar"></i>Ngày đăng: @Convert.ToDateTime(@item.NgayDang.ToString()).ToShortDateString()
+                            </span>
+                        </div>
+                        <h4> @item.TieuDe</h4>
+
+                        @Html.Raw(@item.NoiDung)
+
+                    </div>
+                }
+
+                <div class="col-lg-12 col-md-12 post_commentbox" style="margin-bottom: 40px;">
+                    @foreach (var item in getinfoposter)
+                    {
+                        <span><i class="fa fa-user"></i>Người đăng:<a href="/Nguoi-dang/@item.TenTaiKhoan-@item.IDTaiKhoan"> @item.TenTaiKhoan</a></span>
+                    }
+                </div>
+
+
+
+
+
+                @*<%--LIKE + COMMENT facebook________________________________________---%>*@
+                <div id="fb-root" style="margin-top: 50px;"></div>
+                <script>
+                    (function (d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.5&appId=409801852540765";
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+                @foreach (var item in newsbyid)
+                {
+                    <div class="fb-like" data-href="docbaomoingay.tk/doc-bao/@item.UrlRequire-@item.IDBaiDang" title="" data-width="740px" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+                    <div class="fb-comments" data-href="docbaomoingay.tk/doc-bao/@item.UrlRequire-@item.IDBaiDang" data-width="740px" data-numposts="5" data-colorscheme="light"></div>
+                }
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <!-- start content bottom right -->
+    <div class="col-lg-4 col-md-4">
+        <div class="content_bottom_right">
+            <!-- start single bottom rightbar -->
+            <div class="single_bottom_rightbar">
+                <h2>BÀI VIẾT CÙNG THỂ LOẠI</h2>
+                <ul class="small_catg popular_catg wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                    @foreach (var item in top10cungtheloai)
+                    {
+                        <li>
+                            <div class="media wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                                <div class="img_post_right">
+                                    <a href="/doc-bao/@item.UrlRequire-@item.IDBaiDang" class="media-left">
+                                        <img alt="img" src="@item.AnhDaiDien">
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="media-heading"><a href="/doc-bao/@item.UrlRequire-@item.IDBaiDang"> @item.TenBaiDang</a></h4>
+                                    <p> @item.TieuDe</p>
+                                </div>
+                            </div>
+
+                        </li>}
+                </ul>
+            </div> <!-- End single bottom rightbar -->
+            @*CÙNG NGƯỜI ĐĂNG*@
+            <div class="single_bottom_rightbar">
+                @*@foreach (var item in getinfoposter)
+                    {
+                        <a href="/Nguoi-dang/@item.TenTaiKhoan-@item.IDTaiKhoan">
+                           BÀI VIẾT CÙNG NGƯỜI ĐĂNG
+                        </a>
+                    }*@
+
+                <h2>
+                    @foreach (var item in getinfoposter)
+                    {
+                        <a href="/Nguoi-dang/@item.TenTaiKhoan-@item.IDTaiKhoan">
+                            BÀI VIẾT CÙNG NGƯỜI ĐĂNG
+                        </a>
+                    }
+                </h2>
+                <ul class="small_catg popular_catg wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                    @foreach (var item in top10cungnguoidang)
+                    {
+                        <li>
+                            <div class="media wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                                <div class="img_post_right">
+                                    <a href="/doc-bao/@item.UrlRequire-@item.IDBaiDang" class="media-left">
+                                        <img alt="img" src="@item.AnhDaiDien">
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="media-heading"><a href="/doc-bao/@item.UrlRequire-@item.IDBaiDang"> @item.TenBaiDang</a></h4>
+                                    <p> @item.TieuDe</p>
+                                </div>
+                            </div>
+
+                        </li>}
+                </ul>
+            </div> <!-- End single bottom rightbar -->
+            <!-- start single bottom rightbar -->
+        </div>
+    </div>
+    <!-- start content bottom right -->
+
+
+
+
+</div>

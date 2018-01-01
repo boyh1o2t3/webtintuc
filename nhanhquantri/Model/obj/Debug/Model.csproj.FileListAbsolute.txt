@@ -1,0 +1,28 @@
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\Model.dll.config
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\Model.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\Model.pdb
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\EntityFramework.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\PagedList.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\PagedList.Mvc.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\EntityFramework.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\PagedList.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\bin\Debug\PagedList.Mvc.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\obj\Debug\Model.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Model\obj\Debug\Model.pdb
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\Model.dll.config
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\Model.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\Model.pdb
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\EntityFramework.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\PagedList.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\PagedList.Mvc.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\EntityFramework.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\PagedList.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\bin\Debug\PagedList.Mvc.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\obj\Debug\Model.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Model\obj\Debug\Model.pdb

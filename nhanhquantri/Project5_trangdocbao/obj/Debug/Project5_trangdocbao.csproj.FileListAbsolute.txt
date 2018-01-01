@@ -1,0 +1,90 @@
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\Project5_trangdocbao.dll.config
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\Project5_trangdocbao.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\Project5_trangdocbao.pdb
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\AjaxControlToolkit.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\CKFinder.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\EntityFramework.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\EntityFramework.SqlServer.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\Microsoft.Web.Infrastructure.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\Model.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\Newtonsoft.Json.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\PagedList.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\PagedList.Mvc.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.Formatting.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.WebRequest.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Helpers.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Http.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Http.WebHost.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Mvc.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Razor.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.Deployment.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.Razor.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\Model.pdb
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\CKFinder.pdb
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\EntityFramework.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\EntityFramework.SqlServer.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\PagedList.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\PagedList.Mvc.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Helpers.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Mvc.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Razor.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.Deployment.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.Razor.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\Newtonsoft.Json.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.Formatting.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.WebRequest.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Http.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Http.WebHost.xml
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\obj\Debug\Project5_trangdocbao.csprojResolveAssemblyReference.cache
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\obj\Debug\Project5_trangdocbao.dll
+D:\HOc Tap\Nam 4\Do an 5\Project5_trangdocbao\Project5_trangdocbao\obj\Debug\Project5_trangdocbao.pdb
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\Project5_trangdocbao.dll.config
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\Project5_trangdocbao.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\Project5_trangdocbao.pdb
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\AjaxControlToolkit.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\CKFinder.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\EntityFramework.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\EntityFramework.SqlServer.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\Microsoft.Web.Infrastructure.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\Model.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\Newtonsoft.Json.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\PagedList.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\PagedList.Mvc.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.Formatting.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.WebRequest.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Helpers.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Http.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Http.WebHost.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Mvc.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Razor.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.Deployment.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.Razor.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\Model.pdb
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\CKFinder.pdb
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\EntityFramework.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\EntityFramework.SqlServer.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\PagedList.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\PagedList.Mvc.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Helpers.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Mvc.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Razor.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.Deployment.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.WebPages.Razor.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\Newtonsoft.Json.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.Formatting.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Net.Http.WebRequest.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Http.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\bin\System.Web.Http.WebHost.xml
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\obj\Debug\Project5_trangdocbao.csprojResolveAssemblyReference.cache
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\obj\Debug\Project5_trangdocbao.dll
+E:\Project test\BTL_Webtintuc_hau\Project5_trangdocbao\Project5_trangdocbao\obj\Debug\Project5_trangdocbao.pdb
